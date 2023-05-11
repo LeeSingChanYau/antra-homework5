@@ -1,0 +1,13 @@
+.double-select {
+  margin: auto;
+  text-align: center;
+}
+
+.inputs {
+  display: flex;
+  justify-content: center;
+}
+
+.inputSelect {
+  margin: 0 60px;
+}
